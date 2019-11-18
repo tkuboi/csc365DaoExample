@@ -195,6 +195,11 @@
         <mark key="^" line="13" column="47" />
         <mark key="." line="13" column="47" />
       </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/client/src/app/grader/grader.component.html" timestamp="1564436232380">
+        <mark key="[" line="63" column="0" />
+        <mark key="]" line="63" column="0" />
+        <mark key="." line="63" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
         <mark key="]" line="74" column="55" />
@@ -224,6 +229,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="8" column="1" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/Assignment.java" timestamp="1571962380157">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/TtServiceRequestsRepository.java" timestamp="1519958416061">
         <mark key="[" line="11" column="105" />
@@ -441,6 +451,11 @@
         <mark key="]" line="74" column="5" />
         <mark key="^" line="74" column="5" />
         <mark key="." line="74" column="5" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/course/CourseController.java" timestamp="1569356523082">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/layout/common.jsp" timestamp="1534818054234">
         <mark key="[" line="36" column="4" />
@@ -897,6 +912,11 @@
         <mark key="^" line="107" column="11" />
         <mark key="." line="107" column="6" />
       </file>
+      <file name="/Dummy.txt" timestamp="1569365949327">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/LogoutServlet.java" timestamp="1542259148250">
         <mark key="[" line="19" column="64" />
         <mark key="]" line="19" column="24" />
@@ -1048,7 +1068,7 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1569365937184">
+      <file name="/fragment.java" timestamp="1574047574961">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
@@ -1200,6 +1220,11 @@
         <mark key="]" line="9" column="0" />
         <mark key="^" line="31" column="17" />
         <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/client/src/app/submission/submission.component.html" timestamp="1564429891486">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="12" />
+        <mark key="." line="8" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/java/com/loginapp/controller/AccountController.java" timestamp="1542346601767">
         <mark key="[" line="9" column="11" />
@@ -1600,8 +1625,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/dao/CustomerDaoImpl.java" timestamp="1574039284423">
-        <mark key="[" line="2" column="41" />
+      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/dao/CustomerDaoImpl.java" timestamp="1574047549995">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="122" column="2" />
+        <mark key="." line="122" column="2" />
+        <mark key="^" line="122" column="2" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/pom.xml" timestamp="1558479238493">
         <mark key="[" line="10" column="0" />
@@ -1936,6 +1964,12 @@
         <mark key="^" line="21" column="108" />
         <mark key="." line="21" column="108" />
       </file>
+      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/dao/CreditCardDaoImpl.java" timestamp="1574047634054">
+        <mark key="[" line="25" column="68" />
+        <mark key="]" line="25" column="68" />
+        <mark key="^" line="20" column="18" />
+        <mark key="." line="25" column="68" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ApproveCutsController.java" timestamp="1507584102792">
         <mark key="[" line="87" column="6" />
         <mark key="]" line="87" column="6" />
@@ -2032,11 +2066,10 @@
         <mark key="." line="91" column="14" />
         <mark key="^" line="86" column="32" />
       </file>
-      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/entity/CreditCard.java" timestamp="1574047020438">
-        <mark key="[" line="7" column="25" />
-        <mark key="]" line="9" column="1" />
-        <mark key="^" line="9" column="1" />
-        <mark key="." line="9" column="1" />
+      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/entity/CreditCard.java" timestamp="1574047370076">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/rest/TtCutsRestController.java" timestamp="1506891055990">
         <mark key="[" line="10" column="29" />
@@ -2212,10 +2245,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
@@ -2224,31 +2257,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcHEuaW5zZXJ0KGkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBwaG9uZTsK</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwcml2YXRlIEludGVnZXIgc3NuOwo=</text>
+        <text encoding="base64">ICBAT3ZlcnJpZGUKICBwdWJsaWMgQ3VzdG9tZXIgZ2V0QnlJZChpbnQgaWQpIHsKICAgIHJldHVybiBudWxsOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIFNldDxDdXN0b21lcj4gZ2V0QWxsKCkgewogICAgcmV0dXJuIG51bGw7CiAgfQoKICBAT3ZlcnJpZGUKICBwdWJsaWMgQm9vbGVhbiBpbnNlcnQoQ3VzdG9tZXIgb2JqKSB7CiAgICByZXR1cm4gbnVsbDsKICB9CgogIEBPdmVycmlkZQogIHB1YmxpYyBCb29sZWFuIHVwZGF0ZShDdXN0b21lciBvYmopIHsKICAgIHJldHVybiBudWxsOwogIH0KCiAgQE92ZXJyaWRlCiAgcHVibGljIEJvb2xlYW4gZGVsZXRlKEN1c3RvbWVyIG9iaikgewo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgdG9TdHJpbmcoKSB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIERhb01hbmFnZXIgZG0gPSBuZXcgRGFvTWFuYWdlcigpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNhdGNoKEV4Y2VwdGlvbiBlKSB7IHRocm93IGU7IH0K</text>
+        <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBwaG9uZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLy90aGlzLmNvbm4gPSBDb25uZWN0aW9uRmFjdG9yeS5nZXRDb25uZWN0aW9uKHRoaXMuZHJpdmVyLCB0aGlzLnVybCwgdGhpcy51c2VyLCB0aGlzLnBhc3MpOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIEludGVnZXIgc3NuOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
