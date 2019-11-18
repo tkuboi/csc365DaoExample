@@ -1104,7 +1104,7 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1574063394922">
+      <file name="/fragment.java" timestamp="1574063581999">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
@@ -1524,6 +1524,12 @@
         <mark key="]" line="25" column="233" />
         <mark key="^" line="25" column="233" />
         <mark key="." line="25" column="233" />
+      </file>
+      <file name="$USER_HOME$/git/csc365DaoExample/properties/credential.xml" timestamp="1574063527732">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="12" />
+        <mark key="^" line="9" column="12" />
+        <mark key="." line="9" column="12" />
       </file>
       <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Payment.java" timestamp="1554150861652">
         <mark key="[" line="2" column="22" />
