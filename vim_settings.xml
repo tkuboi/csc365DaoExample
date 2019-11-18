@@ -1529,11 +1529,11 @@
         <mark key="^" line="25" column="233" />
         <mark key="." line="25" column="233" />
       </file>
-      <file name="$USER_HOME$/git/csc365DaoExample/properties/credential.xml" timestamp="1574063527732">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="9" column="12" />
+      <file name="$USER_HOME$/git/csc365DaoExample/properties/credential.xml" timestamp="1574088914587">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
         <mark key="^" line="9" column="12" />
-        <mark key="." line="9" column="12" />
+        <mark key="." line="6" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/Payment.java" timestamp="1554150861652">
         <mark key="[" line="2" column="22" />
@@ -2307,10 +2307,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>dataSource</text>
