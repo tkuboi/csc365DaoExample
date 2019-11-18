@@ -941,7 +941,7 @@
         <mark key="^" line="107" column="11" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574064144163">
+      <file name="/Dummy.txt" timestamp="1574065406664">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -2180,12 +2180,6 @@
         <mark key="]" line="5" column="25" />
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
-      </file>
-      <file name="$USER_HOME$/git/csc365DaoExample/pom.xml" timestamp="1574038824292">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="20" column="11" />
-        <mark key="." line="20" column="11" />
-        <mark key="^" line="20" column="11" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/videosMenu.jsp" timestamp="1509601796373">
         <mark key="[" line="0" column="0" />
