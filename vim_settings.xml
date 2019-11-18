@@ -436,7 +436,6 @@
         <mark key="." line="91" column="3" />
         <mark key="^" line="91" column="3" />
       </file>
-      <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Bill.java" timestamp="1574047214027" />
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/CreateVideosService.java" timestamp="1507598690711">
         <mark key="[" line="16" column="1" />
         <mark key="]" line="64" column="2" />
@@ -942,7 +941,7 @@
         <mark key="^" line="107" column="11" />
         <mark key="." line="107" column="6" />
       </file>
-      <file name="/Dummy.txt" timestamp="1574063358093">
+      <file name="/Dummy.txt" timestamp="1574064144163">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1079,7 +1078,12 @@
         <mark key="^" line="30" column="37" />
         <mark key="." line="30" column="37" />
       </file>
-      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/entity/Customer.java" timestamp="1574039472612" />
+      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/entity/Customer.java" timestamp="1574063883505">
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/TaskedHearing.java" timestamp="1508798885167">
         <mark key="[" line="2" column="28" />
         <mark key="]" line="14" column="1" />
@@ -1104,7 +1108,7 @@
         <mark key="." line="14" column="10" />
         <mark key="^" line="14" column="10" />
       </file>
-      <file name="/fragment.java" timestamp="1574063662420">
+      <file name="/fragment.java" timestamp="1574063693659">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/discoveredVideosBody.jsp" timestamp="1525643731398">
@@ -1681,11 +1685,11 @@
         <mark key="^" line="10" column="1" />
         <mark key="." line="10" column="1" />
       </file>
-      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/dao/CustomerDaoImpl.java" timestamp="1574047549995">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="122" column="2" />
-        <mark key="." line="122" column="2" />
-        <mark key="^" line="122" column="2" />
+      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/dao/CustomerDaoImpl.java" timestamp="1574063913763">
+        <mark key="[" line="110" column="17" />
+        <mark key="]" line="110" column="19" />
+        <mark key="." line="110" column="19" />
+        <mark key="^" line="110" column="19" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/pom.xml" timestamp="1558479238493">
         <mark key="[" line="10" column="0" />
@@ -2123,11 +2127,11 @@
         <mark key="." line="91" column="14" />
         <mark key="^" line="86" column="32" />
       </file>
-      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/Main.java" timestamp="1574063274570">
-        <mark key="[" line="31" column="9" />
-        <mark key="]" line="35" column="36" />
-        <mark key="^" line="35" column="36" />
-        <mark key="." line="35" column="36" />
+      <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/Main.java" timestamp="1574063777498">
+        <mark key="[" line="16" column="27" />
+        <mark key="]" line="16" column="27" />
+        <mark key="^" line="16" column="27" />
+        <mark key="." line="16" column="27" />
       </file>
       <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/entity/CreditCard.java" timestamp="1574048906839">
         <mark key="[" line="14" column="0" />
@@ -2309,10 +2313,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>dataSource</text>
