@@ -2072,6 +2072,12 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/git/csc365DaoExample/pom.xml" timestamp="1574037909618">
+        <mark key="[" line="10" column="3" />
+        <mark key="]" line="18" column="18" />
+        <mark key="." line="18" column="18" />
+        <mark key="^" line="18" column="18" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/pageBodies/videosMenu.jsp" timestamp="1509601796373">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -2197,11 +2203,11 @@
       <jump line="41" column="12" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIERhb01hbmFnZXIgZG0gPSBuZXcgRGFvTWFuYWdlcigpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>d</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>d</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
