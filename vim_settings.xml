@@ -1662,6 +1662,12 @@
         <mark key="^" line="19" column="13" />
         <mark key="." line="19" column="13" />
       </file>
+      <file name="$USER_HOME$/git/csc365SwingAppExample/src/main/java/edu/calpoly/csc365/examples/dao1/entity/Customer.java" timestamp="1574266662642">
+        <mark key="[" line="45" column="21" />
+        <mark key="]" line="45" column="26" />
+        <mark key="." line="45" column="26" />
+        <mark key="^" line="45" column="26" />
+      </file>
       <file name="$USER_HOME$/Workspace/webappexample1/src/main/java/edu/calpoly/csc365/examples/webapp/dao/Dao.java" timestamp="1558905660617">
         <mark key="[" line="2" column="20" />
         <mark key="]" line="9" column="23" />
@@ -2314,10 +2320,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>dataSource</text>
