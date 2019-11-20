@@ -1796,11 +1796,11 @@
         <mark key="." line="8" column="20" />
         <mark key="^" line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/controller/LoginController.java" timestamp="1574228946515">
-        <mark key="[" line="11" column="29" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+      <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/controller/LoginController.java" timestamp="1574229755532">
+        <mark key="[" line="14" column="11" />
+        <mark key="]" line="14" column="43" />
+        <mark key="^" line="14" column="43" />
+        <mark key="." line="14" column="43" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SecurityService.java" timestamp="1512706732556">
         <mark key="[" line="6" column="0" />
@@ -2322,16 +2322,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>dataSource</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBwdWJsaWMgRGFvPFBheW1lbnQ+IGdldFBheW1lbnREYW8oKSB0aHJvd3MgU1FMRXhjZXB0aW9uIHsKICAgIHJldHVybiBuZXcgUGF5bWVudERhb0ltcGwodGhpcy5nZXRDb25uZWN0aW9uKCkpOwogIH0KCg==</text>
+        <text encoding="base64">ICAgIFN0cmluZyBuYW1lID0gcmVxdWVzdC5nZXRQYXJhbWV0ZXIoInVzZXIiKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
