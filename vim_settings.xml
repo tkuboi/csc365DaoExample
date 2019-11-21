@@ -470,11 +470,11 @@
         <mark key="^" line="71" column="42" />
         <mark key="." line="71" column="42" />
       </file>
-      <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/dao/CustomerDaoImpl.java" timestamp="1574373002456">
-        <mark key="[" line="86" column="27" />
-        <mark key="]" line="86" column="32" />
-        <mark key="^" line="86" column="32" />
-        <mark key="." line="86" column="32" />
+      <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/dao/CustomerDaoImpl.java" timestamp="1574376728414">
+        <mark key="[" line="82" column="39" />
+        <mark key="]" line="97" column="17" />
+        <mark key="^" line="97" column="17" />
+        <mark key="." line="97" column="17" />
       </file>
       <file name="/Dummy.txt" timestamp="1574236401600">
         <mark key="[" line="0" column="0" />
@@ -1507,11 +1507,11 @@
         <mark key="^" line="65" column="74" />
         <mark key="." line="65" column="74" />
       </file>
-      <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/dao/Dao.java" timestamp="1574312395821">
-        <mark key="[" line="2" column="20" />
-        <mark key="]" line="9" column="23" />
-        <mark key="^" line="9" column="23" />
-        <mark key="." line="9" column="23" />
+      <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/dao/Dao.java" timestamp="1574377045730">
+        <mark key="[" line="8" column="2" />
+        <mark key="]" line="8" column="8" />
+        <mark key="^" line="8" column="8" />
+        <mark key="." line="8" column="8" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/scripts/discoveredVideosScripts.jsp" timestamp="1513662557999">
         <mark key="[" line="0" column="49" />
@@ -2142,8 +2142,8 @@
         <mark key="^" line="23" column="1" />
         <mark key="." line="23" column="1" />
       </file>
-      <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/dao/CreditCardDaoImpl.java" timestamp="1574374730284">
-        <mark key="[" line="87" column="5" />
+      <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/dao/CreditCardDaoImpl.java" timestamp="1574377142346">
+        <mark key="[" line="84" column="40" />
         <mark key="]" line="88" column="17" />
         <mark key="^" line="88" column="17" />
         <mark key="." line="88" column="17" />
@@ -2364,10 +2364,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>dataSource</text>
