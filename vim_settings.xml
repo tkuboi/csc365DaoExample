@@ -100,12 +100,12 @@
         <mark key="^" line="104" column="35" />
         <mark key="." line="104" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1573365653235">
-        <mark key="'" line="41" column="12" />
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="64" column="98" />
-        <mark key="^" line="64" column="98" />
-        <mark key="." line="64" column="98" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1576443726137">
+        <mark key="'" line="118" column="12" />
+        <mark key="[" line="53" column="47" />
+        <mark key="]" line="53" column="47" />
+        <mark key="^" line="53" column="47" />
+        <mark key="." line="53" column="47" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
@@ -2107,7 +2107,7 @@
         <mark key="^" line="77" column="2" />
         <mark key="." line="77" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test2.py" timestamp="1576441763440">
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test2.py" timestamp="1576442743585">
         <mark key="[" line="12" column="47" />
         <mark key="]" line="8" column="47" />
         <mark key="^" line="8" column="47" />
@@ -2559,46 +2559,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>1</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0X3N0cjEpCg==</text>
+        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuc3ViVGVzdChtc2c9InRlc3RpbmcgdHJlZW1hcCA4Iik6CiAgICAgICAgICAgIHNlbGYudGVzdF90cmVlbWFwOCgpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX2xpc3QuYWRkKDMpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQucmFuZ2Vfc2VhcmNoKDMsIDYpLCBbJ3RocmVlJywgJ2ZvdXInLCAnZml2ZSddKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX2xpc3QuYWRkKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICB0LmRlbGV0ZSg3KQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX2xpc3QuYWRkKDIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQuZmluZF9taW4oKSwgJ29uZScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCh0ZXN0X3N0cikK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQuZmluZF9tYXgoKSwgJ3NldmVuJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAiIiIK</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQudHJlZV9oZWlnaHQoKSwgMikK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX2xpc3QuYWRkKDMpCg==</text>
+        <text encoding="base64">ICAgICAgICB0LmRlbGV0ZSg2KQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX2xpc3QuYWRkKDEpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQucmFuZ2Vfc2VhcmNoKDMsIDYpLCBbJ3RocmVlJywgJ2ZvdXInLCAnZml2ZSddKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX2xpc3QuYWRkKDIpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQuZ2V0KDQpLCAnZm91cicpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvcmRlcmVkX2xpc3QgPSBPcmRlcmVkTGlzdCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydEVxdWFsKHQuZ2V0KDUpLCAnZml2ZScpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>1</text>
       </register>
     </registers>
     <search>
@@ -2652,8 +2652,8 @@
         <entry>%s/DataSource/ConnectionFactory/g</entry>
         <entry>%s/dataSource/connectionFactory/g</entry>
         <entry>w</entry>
-        <entry>1</entry>
         <entry>wq</entry>
+        <entry>1</entry>
       </history-cmd>
       <history-expr />
       <history-input />
