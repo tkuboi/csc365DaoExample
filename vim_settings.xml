@@ -106,12 +106,12 @@
         <mark key="^" line="104" column="35" />
         <mark key="." line="104" column="35" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1576443726137">
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test5.py" timestamp="1577938963072">
         <mark key="'" line="118" column="12" />
-        <mark key="[" line="53" column="47" />
-        <mark key="]" line="53" column="47" />
-        <mark key="^" line="53" column="47" />
-        <mark key="." line="53" column="47" />
+        <mark key="[" line="232" column="17" />
+        <mark key="]" line="232" column="17" />
+        <mark key="^" line="232" column="17" />
+        <mark key="." line="232" column="17" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
@@ -481,11 +481,11 @@
         <mark key="^" line="24" column="22" />
         <mark key="." line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/quarter/QuarterRepository.java" timestamp="1577936297940">
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/quarter/QuarterRepository.java" timestamp="1577938213098">
         <mark key="[" line="4" column="76" />
-        <mark key="]" line="2" column="0" />
-        <mark key="^" line="4" column="63" />
-        <mark key="." line="2" column="0" />
+        <mark key="]" line="6" column="77" />
+        <mark key="^" line="6" column="77" />
+        <mark key="." line="6" column="77" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCommand.java" timestamp="1558905534926">
         <mark key="[" line="3" column="2" />
@@ -578,11 +578,11 @@
         <mark key="^" line="1" column="77" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test6.py" timestamp="1576444758454">
-        <mark key="[" line="26" column="22" />
-        <mark key="]" line="26" column="22" />
-        <mark key="^" line="26" column="22" />
-        <mark key="." line="26" column="22" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test6.py" timestamp="1577938942708">
+        <mark key="[" line="120" column="17" />
+        <mark key="]" line="120" column="17" />
+        <mark key="^" line="120" column="17" />
+        <mark key="." line="120" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/daoExample1/src/main/java/edu/calpoly/csc365/examples/dao1/dao/DaoCachedCustomerImpl.java" timestamp="1558327773055">
         <mark key="[" line="24" column="64" />
@@ -668,11 +668,11 @@
         <mark key="." line="22" column="90" />
         <mark key="^" line="22" column="90" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserController.java" timestamp="1569356589477">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="^" line="75" column="44" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserController.java" timestamp="1577938473485">
+        <mark key="[" line="80" column="54" />
+        <mark key="]" line="80" column="61" />
+        <mark key="^" line="80" column="61" />
+        <mark key="." line="80" column="61" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/repositories/HearingRepository.java" timestamp="1513636657441">
         <mark key="[" line="11" column="62" />
@@ -1562,11 +1562,11 @@
         <mark key="." line="0" column="16" />
         <mark key="^" line="0" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test10.py" timestamp="1576441627494">
-        <mark key="[" line="2" column="10" />
-        <mark key="]" line="2" column="12" />
-        <mark key="^" line="2" column="12" />
-        <mark key="." line="2" column="12" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test10.py" timestamp="1577938903171">
+        <mark key="[" line="83" column="17" />
+        <mark key="]" line="83" column="17" />
+        <mark key="^" line="83" column="17" />
+        <mark key="." line="83" column="17" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/RekognitionCallbackResult.java" timestamp="1541644873074">
         <mark key="[" line="2" column="40" />
@@ -1586,11 +1586,11 @@
         <mark key="^" line="3" column="21" />
         <mark key="." line="3" column="21" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/enrollment/Enrollment.java" timestamp="1577934249443">
-        <mark key="[" line="31" column="20" />
-        <mark key="]" line="19" column="16" />
-        <mark key="^" line="10" column="4" />
-        <mark key="." line="19" column="16" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/enrollment/Enrollment.java" timestamp="1577937955128">
+        <mark key="[" line="20" column="25" />
+        <mark key="]" line="22" column="27" />
+        <mark key="^" line="22" column="27" />
+        <mark key="." line="22" column="27" />
       </file>
       <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/entity/Payment.java" timestamp="1574312196180">
         <mark key="[" line="2" column="22" />
@@ -1634,11 +1634,11 @@
         <mark key="^" line="39" column="51" />
         <mark key="." line="41" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/course/CourseRepository.java" timestamp="1577937635041">
-        <mark key="[" line="11" column="100" />
-        <mark key="]" line="11" column="174" />
-        <mark key="^" line="11" column="174" />
-        <mark key="." line="11" column="174" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/course/CourseRepository.java" timestamp="1577938570234">
+        <mark key="[" line="11" column="139" />
+        <mark key="]" line="11" column="140" />
+        <mark key="^" line="11" column="140" />
+        <mark key="." line="11" column="140" />
       </file>
       <file name="$USER_HOME$/Workspace/demo/src/main/java/com/example/demo/DemoApplication.java" timestamp="1562445440938">
         <mark key="[" line="15" column="0" />
@@ -1754,11 +1754,11 @@
         <mark key="^" line="6" column="65" />
         <mark key="." line="7" column="49" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test1.py" timestamp="1576441698971">
-        <mark key="[" line="14" column="8" />
-        <mark key="]" line="19" column="47" />
-        <mark key="^" line="19" column="47" />
-        <mark key="." line="19" column="47" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test1.py" timestamp="1577938998789">
+        <mark key="[" line="68" column="17" />
+        <mark key="]" line="68" column="17" />
+        <mark key="^" line="68" column="17" />
+        <mark key="." line="68" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/entity/Customer.java" timestamp="1574311977660">
         <mark key="[" line="2" column="0" />
@@ -1893,11 +1893,14 @@
         <mark key="^" line="7" column="93" />
         <mark key="." line="7" column="93" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" timestamp="1576441846792">
-        <mark key="[" line="8" column="8" />
-        <mark key="]" line="9" column="45" />
-        <mark key="^" line="9" column="45" />
-        <mark key="." line="9" column="45" />
+      <file name="/fragment.java" timestamp="1577938402326">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" timestamp="1577938979181">
+        <mark key="[" line="101" column="17" />
+        <mark key="]" line="101" column="17" />
+        <mark key="^" line="101" column="17" />
+        <mark key="." line="101" column="17" />
       </file>
       <file name="$USER_HOME$/Workspace/csc365Lab1/src/com/tk/OwnershipCollection.java" timestamp="1554615792396">
         <mark key="[" line="9" column="24" />
@@ -2115,11 +2118,11 @@
         <mark key="^" line="77" column="2" />
         <mark key="." line="77" column="2" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test2.py" timestamp="1576442743585">
-        <mark key="[" line="12" column="47" />
-        <mark key="]" line="8" column="47" />
-        <mark key="^" line="8" column="47" />
-        <mark key="." line="8" column="47" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test2.py" timestamp="1577938988912">
+        <mark key="[" line="35" column="17" />
+        <mark key="]" line="35" column="17" />
+        <mark key="^" line="35" column="17" />
+        <mark key="." line="35" column="17" />
       </file>
       <file name="$USER_HOME$/git/csc365DaoExample/properties/credential.xml" timestamp="1574088914587">
         <mark key="[" line="6" column="22" />
@@ -2270,11 +2273,11 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="16" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test4.py" timestamp="1576442705057">
-        <mark key="[" line="28" column="22" />
-        <mark key="]" line="28" column="22" />
-        <mark key="^" line="28" column="22" />
-        <mark key="." line="28" column="22" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test4.py" timestamp="1577938971207">
+        <mark key="[" line="127" column="17" />
+        <mark key="]" line="127" column="17" />
+        <mark key="^" line="127" column="17" />
+        <mark key="." line="127" column="17" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Stateconstofficereprepresentation.java" timestamp="1510526687132">
         <mark key="[" line="9" column="111" />
@@ -2561,16 +2564,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAQ29sdW1uKG5hbWU9InllYXIiKQo=</text>
+        <text encoding="base64">ICAgIFF1YXJ0ZXIgcXVhcnRlciA9IHRoaXMucXVhcnRlclJlcG9zaXRvcnkuZmluZFF1YXJ0ZXJCeVllYXJFcXVhbHNBbmRRdWFydGVyRXF1YWxzKHVzZXJEdG8uZ2V0WWVhcigpLCB1c2VyRHRvLmdldFF1YXJ0ZXIoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBwcml2YXRlIFN0cmluZyBxdWFydGVyOwo=</text>
