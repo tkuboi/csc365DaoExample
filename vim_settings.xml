@@ -1990,11 +1990,11 @@
         <mark key="^" line="12" column="1" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grade/GradeController.java" timestamp="1578024436836">
-        <mark key="[" line="15" column="28" />
-        <mark key="]" line="15" column="28" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grade/GradeController.java" timestamp="1578025840636">
+        <mark key="[" line="15" column="29" />
+        <mark key="]" line="15" column="38" />
         <mark key="^" line="15" column="38" />
-        <mark key="." line="15" column="28" />
+        <mark key="." line="15" column="38" />
       </file>
       <file name="$USER_HOME$/Workspace/project10/src/com/tk/JackAnalyzer.java" timestamp="1545273870688">
         <mark key="[" line="15" column="8" />
@@ -2176,8 +2176,8 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/resources/application.properties" timestamp="1578019078764">
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/resources/application.properties" timestamp="1578026386256">
+        <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="0" />
@@ -2485,10 +2485,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
