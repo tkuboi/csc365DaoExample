@@ -1887,11 +1887,11 @@
         <mark key="^" line="40" column="65" />
         <mark key="." line="40" column="65" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/AssignmentController.java" timestamp="1578007215795">
-        <mark key="[" line="14" column="47" />
-        <mark key="]" line="14" column="49" />
-        <mark key="^" line="14" column="49" />
-        <mark key="." line="14" column="49" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/AssignmentController.java" timestamp="1578020242330">
+        <mark key="[" line="27" column="45" />
+        <mark key="]" line="27" column="51" />
+        <mark key="^" line="27" column="51" />
+        <mark key="." line="27" column="51" />
       </file>
       <file name="$USER_HOME$/Workspace/my-spring-mvc-test/src/main/java/com/loginapp/controller/AccountController.java" timestamp="1542346601767">
         <mark key="[" line="9" column="11" />
@@ -2477,8 +2477,8 @@
       <jump line="33" column="47" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test8.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICBMaXN0PEVucm9sbG1lbnQ+IGZpbmRBbGxCeVVzZXJBbmRDb3Vyc2UoU3RyaW5nIHVzZXIsIFN0cmluZyBjb3Vyc2UpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>r</text>
       </register>
       <register name="-" type="4">
         <text>r</text>
@@ -2487,7 +2487,7 @@
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMueWVhciA9IHllYXI7CiAgICB0aGlzLnF1YXJ0ZXIgPSBxdWFydGVyOwo=</text>
+        <text encoding="base64">ICAgIGFzc2lnbm1lbnQuc2V0WWVhcihxdWFydGVyLmdldElkKCkuZ2V0WWVhcigpKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBMaXN0PEVucm9sbG1lbnQ+IGZpbmRBbGxCeVVzZXJBbmRDb3Vyc2UoU3RyaW5nIHVzZXIsIFN0cmluZyBjb3Vyc2UpOwo=</text>
