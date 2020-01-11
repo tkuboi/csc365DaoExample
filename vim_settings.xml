@@ -1816,9 +1816,6 @@
         <mark key="^" line="7" column="93" />
         <mark key="." line="7" column="93" />
       </file>
-      <file name="/fragment.java" timestamp="1577938402326">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" timestamp="1577938979181">
         <mark key="[" line="101" column="17" />
         <mark key="]" line="101" column="17" />
@@ -2317,8 +2314,11 @@
         <mark key="." line="36" column="27" />
         <mark key="^" line="36" column="27" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/test/TestScanner.java" timestamp="1578778060992">
-        <mark key="[" line="2" column="26" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/test/TestScanner.java" timestamp="1578778914489">
+        <mark key="[" line="9" column="27" />
+        <mark key="]" line="10" column="44" />
+        <mark key="^" line="10" column="44" />
+        <mark key="." line="10" column="44" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ManageUsersController.java" timestamp="1525663308455">
         <mark key="[" line="30" column="11" />
@@ -2491,10 +2491,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyZXF1ZXN0XD4=</text>
