@@ -15,6 +15,9 @@
         <mark key="^" line="71" column="123" />
         <mark key="." line="71" column="123" />
       </file>
+      <file name="/a.dummy" timestamp="1578964246834">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/quarter/QuarterController.java" timestamp="1577936384087">
         <mark key="[" line="17" column="43" />
         <mark key="]" line="17" column="59" />
@@ -1815,6 +1818,9 @@
         <mark key="]" line="7" column="93" />
         <mark key="^" line="7" column="93" />
         <mark key="." line="7" column="93" />
+      </file>
+      <file name="/fragment.java" timestamp="1577938402326">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test3.py" timestamp="1577938979181">
         <mark key="[" line="101" column="17" />
