@@ -732,12 +732,12 @@
         <mark key="^" line="14" column="47" />
         <mark key="." line="14" column="47" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test8.py" timestamp="1574663817934">
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test8.py" timestamp="1582830154258">
         <mark key="'" line="33" column="47" />
-        <mark key="[" line="104" column="0" />
-        <mark key="]" line="104" column="0" />
-        <mark key="^" line="165" column="40" />
-        <mark key="." line="104" column="0" />
+        <mark key="[" line="198" column="39" />
+        <mark key="]" line="199" column="7" />
+        <mark key="^" line="199" column="7" />
+        <mark key="." line="199" column="7" />
       </file>
       <file name="$USER_HOME$/Workspace/project10/src/com/tk/jack/compiler/Grammer.java" timestamp="1545339731307">
         <mark key="[" line="38" column="26" />
@@ -2599,17 +2599,17 @@
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwcmludCgiTWluUFEoIixhcnIsIikiKQo=</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>y</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB3aXRoIHNlbGYuc3ViVGVzdChtc2c9InRlc3RpbmcgbWluX3BxIGRlbF9taW4iKToKICAgICAgICAgICAgc2VsZi50ZXN0X3BxMigpCg==</text>
+        <text encoding="base64">ICAgICAgICBzZWxmLmFzc2VydFJhaXNlcyhLZXlFcnJvciwgaHQucmVtb3ZlLCAnYScpCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiTWluUFEoIixhcnIsIikiKQo=</text>
