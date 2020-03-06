@@ -2170,11 +2170,11 @@
         <mark key="." line="27" column="60" />
         <mark key="^" line="27" column="60" />
       </file>
-      <file name="$USER_HOME$/Workspace/csc365_1/src/main/java/com/tk/csc365/PreparedStmtMoviesExample.java" timestamp="1573432393312">
-        <mark key="[" line="65" column="0" />
-        <mark key="]" line="65" column="0" />
+      <file name="$USER_HOME$/Workspace/csc365_1/src/main/java/com/tk/csc365/PreparedStmtMoviesExample.java" timestamp="1583454828657">
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="35" />
         <mark key="^" line="67" column="42" />
-        <mark key="." line="65" column="0" />
+        <mark key="." line="39" column="35" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Gift.java" timestamp="1510364926350">
         <mark key="[" line="33" column="18" />
@@ -2600,10 +2600,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
