@@ -30,5 +30,6 @@ CREATE TABLE Customer (
 ```
 run edu.calpoly.csc365.examples.cli.Main with the filepath/properties.xml as an application argument.
 For example,
+```
 :$ java edu.calpoly.csc365.examples.cli.Main csc365DaoExample/properties.xml
-
+```
