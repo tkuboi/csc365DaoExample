@@ -78,7 +78,7 @@
         <mark key="^" line="38" column="35" />
         <mark key="." line="31" column="42" />
       </file>
-      <file name="$USER_HOME$/git/csc365WebAppExample/src/main/webapp/WEB-INF/web.xml" timestamp="1583693712483">
+      <file name="$USER_HOME$/git/csc365WebAppExample/src/main/webapp/WEB-INF/web.xml" timestamp="1583695026806">
         <mark key="[" line="21" column="20" />
         <mark key="]" line="21" column="28" />
         <mark key="^" line="21" column="28" />
@@ -2656,10 +2656,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
