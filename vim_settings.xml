@@ -2380,11 +2380,11 @@
         <mark key="^" line="10" column="44" />
         <mark key="." line="10" column="44" />
       </file>
-      <file name="$USER_HOME$/git/csc365WebAppExample/src/main/webapp/customers.jsp" timestamp="1583698741563">
-        <mark key="[" line="38" column="12" />
-        <mark key="]" line="38" column="12" />
-        <mark key="." line="38" column="12" />
-        <mark key="^" line="38" column="12" />
+      <file name="$USER_HOME$/git/csc365WebAppExample/src/main/webapp/customers.jsp" timestamp="1583706448836">
+        <mark key="[" line="31" column="12" />
+        <mark key="]" line="33" column="16" />
+        <mark key="." line="33" column="16" />
+        <mark key="^" line="33" column="16" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/controllers/ManageUsersController.java" timestamp="1525663308455">
         <mark key="[" line="30" column="11" />
@@ -2563,16 +2563,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">PHA+PGEgaHJlZj0iLi9sb2dpbiI+bG9naW48L2E+IDwvcD4K</text>
+        <text encoding="base64">ICAgICAgICA8dGg+bmFtZTwvdGg+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBwcmludCgiTWluUFEoIixhcnIsIikiKQo=</text>
