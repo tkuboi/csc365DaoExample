@@ -1,18 +1,27 @@
-package edu.calpoly.csc365.examples.dao1.dao;
+package edu.calpoly.csc365.examples.cli.dao;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 
-/**
- * Connect to Database
- */
 public class ConnectionFactory {
+  private String driver;
+  private String url;
+  private String user;
+  private String pass;
+
+  public ConnectionFactory(String driver, String url, String user, String pass) {
+    this.driver = driver;
+    this.url = url;
+    this.user = user;
+    this.pass = pass;
+  }
+
   /**
    * Get a connection to database
    * @return Connection object
    */
-  public static Connection getConnection(String driver, String url, String user, String pass)
+  public Connection getConnection()
   {
     try {
       Class.forName(driver);
