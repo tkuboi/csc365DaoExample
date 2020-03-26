@@ -1411,10 +1411,11 @@
         <mark key="^" line="8" column="1" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/Assignment.java" timestamp="1585203077213">
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/Assignment.java" timestamp="1585203771813">
+        <mark key="[" line="25" column="51" />
+        <mark key="]" line="25" column="51" />
+        <mark key="." line="25" column="51" />
+        <mark key="^" line="25" column="40" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/House.java" timestamp="1510530603697">
         <mark key="[" line="14" column="83" />
@@ -2616,17 +2617,17 @@
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBAQ29sdW1uUmVzdWx0KG5hbWUgPSAidHlwZV9uYW1lIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBAQ29sdW1uUmVzdWx0KG5hbWUgPSAidHlwZSIsIHR5cGUgPSBJbnRlZ2VyLmNsYXNzKSwK</text>
+        <text encoding="base64">ICAgICAgICBAQ29sdW1uUmVzdWx0KG5hbWUgPSAibmFtZSIsIHR5cGUgPSBTdHJpbmcuY2xhc3MpLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBAQ29sdW1uUmVzdWx0KG5hbWUgPSAidHlwZV9uYW1lIiwgdHlwZSA9IFN0cmluZy5jbGFzcyksCg==</text>
