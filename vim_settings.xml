@@ -768,7 +768,6 @@
         <mark key="^" line="33" column="46" />
         <mark key="." line="33" column="46" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.1.9.RELEASE/spring-data-jpa-2.1.9.RELEASE.jar!/org/springframework/data/jpa/repository/query/JpaQueryExecution.class" timestamp="1585193611388" />
       <file name="$USER_HOME$/git/example1/src/main/java/edu/calpoly/csc365/example1/controller/CustomerServlet.java" timestamp="1574443196385">
         <mark key="[" line="39" column="0" />
         <mark key="]" line="39" column="0" />
@@ -1284,7 +1283,6 @@
         <mark key="." line="27" column="25" />
         <mark key="^" line="27" column="25" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.3.10.Final/hibernate-core-5.3.10.Final.jar!/org/hibernate/loader/custom/ConstructorResultColumnProcessor.class" timestamp="1585245475314" />
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/VideoTtml.java" timestamp="1508117299616">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="39" column="19" />
@@ -1972,7 +1970,6 @@
         <mark key="^" line="40" column="65" />
         <mark key="." line="40" column="65" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/org/hibernate/hibernate-core/5.3.10.Final/hibernate-core-5.3.10.Final.jar!/org/hibernate/jpa/spi/NativeQueryTupleTransformer.class" timestamp="1585202877695" />
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/assignment/AssignmentController.java" timestamp="1585170885064">
         <mark key="[" line="26" column="0" />
         <mark key="]" line="26" column="0" />
@@ -2063,11 +2060,11 @@
         <mark key="." line="28" column="12" />
         <mark key="^" line="28" column="20" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1585170260220">
-        <mark key="[" line="43" column="6" />
-        <mark key="]" line="43" column="7" />
-        <mark key="." line="43" column="7" />
-        <mark key="^" line="43" column="7" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1586035850510">
+        <mark key="[" line="44" column="6" />
+        <mark key="]" line="44" column="7" />
+        <mark key="." line="44" column="7" />
+        <mark key="^" line="44" column="7" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Utterance.java" timestamp="1544760512332">
         <mark key="[" line="74" column="33" />
@@ -2285,8 +2282,8 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/resources/application.properties" timestamp="1585169908915">
-        <mark key="[" line="53" column="0" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/resources/application.properties" timestamp="1586034952499">
+        <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
         <mark key="^" line="59" column="0" />
@@ -2617,11 +2614,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICsgIiBMRUZUIEpPSU4gR3JhZGUgZyBPTiBnLmFzc2lnbm1lbnQ9YS5pZCBBTkQgZy51c2VyID0gZS51c2VyICIK</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
