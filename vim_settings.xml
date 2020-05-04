@@ -2117,6 +2117,12 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test_cpe202_lab5.py" timestamp="1588617785884">
+        <mark key="[" line="223" column="36" />
+        <mark key="]" line="224" column="33" />
+        <mark key="^" line="224" column="33" />
+        <mark key="." line="224" column="33" />
+      </file>
       <file name="$USER_HOME$/Workspace/webappexample2/src/main/webapp/hello.jsp" timestamp="1562312593161">
         <mark key="[" line="14" column="18" />
         <mark key="]" line="14" column="18" />
@@ -2207,7 +2213,7 @@
         <mark key="^" line="21" column="38" />
         <mark key="." line="21" column="38" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test_cpe202_lab4.py" timestamp="1588571499875">
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test_cpe202_lab4.py" timestamp="1588616952865">
         <mark key="[" line="75" column="76" />
         <mark key="]" line="75" column="37" />
         <mark key="^" line="75" column="37" />
@@ -2629,11 +2635,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/Workspace/gradzilla/py/grader_test7.py" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>5</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
