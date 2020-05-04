@@ -2117,11 +2117,11 @@
         <mark key="." line="12" column="12" />
         <mark key="^" line="12" column="17" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test_cpe202_lab5.py" timestamp="1588617785884">
-        <mark key="[" line="223" column="36" />
-        <mark key="]" line="224" column="33" />
-        <mark key="^" line="224" column="33" />
-        <mark key="." line="224" column="33" />
+      <file name="$USER_HOME$/Workspace/gradzilla/py/grader_test_cpe202_lab5.py" timestamp="1588618849705">
+        <mark key="[" line="243" column="22" />
+        <mark key="]" line="243" column="22" />
+        <mark key="^" line="243" column="22" />
+        <mark key="." line="243" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/webappexample2/src/main/webapp/hello.jsp" timestamp="1562312593161">
         <mark key="[" line="14" column="18" />
@@ -2636,10 +2636,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>5</text>
+        <text>9</text>
       </register>
       <register name="-" type="4">
-        <text>5</text>
+        <text>9</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
