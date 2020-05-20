@@ -1226,11 +1226,11 @@
         <mark key="." line="75" column="0" />
         <mark key="^" line="74" column="67" />
       </file>
-      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1586742823230">
-        <mark key="[" line="81" column="106" />
-        <mark key="]" line="81" column="123" />
-        <mark key="." line="81" column="123" />
-        <mark key="^" line="81" column="123" />
+      <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/grader/GraderService.java" timestamp="1589956265834">
+        <mark key="[" line="25" column="38" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/git/csc365DaoExample/src/main/java/edu/calpoly/csc365/examples/cli/Main.java" timestamp="1574063777498">
         <mark key="[" line="16" column="27" />
@@ -2636,10 +2636,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>9</text>
+        <text>6</text>
       </register>
       <register name="-" type="4">
-        <text>9</text>
+        <text>6</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
