@@ -1790,6 +1790,12 @@
         <mark key="^" line="25" column="68" />
         <mark key="." line="25" column="68" />
       </file>
+      <file name="$USER_HOME$/git/gradzilla/src/main/java/net/tkuboi/gradzilla/user/UserDetailsServiceImpl.java" timestamp="1601149277873">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="25" column="34" />
+        <mark key="^" line="25" column="34" />
+        <mark key="." line="25" column="34" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/TranscriptCallbackResult.java" timestamp="1509942519560">
         <mark key="[" line="3" column="58" />
         <mark key="]" line="3" column="58" />
