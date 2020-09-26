@@ -741,6 +741,12 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/login/login.component.ts" timestamp="1601155715624">
+        <mark key="[" line="60" column="31" />
+        <mark key="]" line="60" column="37" />
+        <mark key="^" line="60" column="37" />
+        <mark key="." line="60" column="37" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Leganalystofficerepresentation.java" timestamp="1510526812503">
         <mark key="[" line="9" column="108" />
         <mark key="]" line="9" column="45" />
@@ -753,6 +759,7 @@
         <mark key="^" line="2" column="41" />
         <mark key="." line="2" column="41" />
       </file>
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/course-list/course-list.component.ts" timestamp="1601154762574" />
       <file name="$USER_HOME$/Workspace/myservlet-test/src/main/java/app/controller/LoginServlet.java" timestamp="1542257077046">
         <mark key="[" line="14" column="33" />
         <mark key="]" line="32" column="35" />
@@ -782,6 +789,12 @@
         <mark key="]" line="46" column="3" />
         <mark key="." line="46" column="3" />
         <mark key="^" line="47" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/gradzilla/src/main/java/net/tkuboi/gradzilla/auth/JWTAuthenticationFilter.java" timestamp="1601156181379">
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="58" column="47" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/client/src/app/edit-assignment/edit-assignment.component.html" timestamp="1564436255984">
         <mark key="[" line="39" column="0" />
@@ -1255,6 +1268,12 @@
         <mark key="]" line="4" column="1" />
         <mark key="." line="4" column="1" />
         <mark key="^" line="4" column="1" />
+      </file>
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/services/authentication.service.ts" timestamp="1601155257374">
+        <mark key="[" line="39" column="20" />
+        <mark key="]" line="39" column="23" />
+        <mark key="^" line="39" column="23" />
+        <mark key="." line="39" column="23" />
       </file>
       <file name="$USER_HOME$/Workspace/weblogin/src/main/webapp/customer_create.jsp" timestamp="1574417446829">
         <mark key="[" line="17" column="37" />
@@ -2654,43 +2673,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlciBOYW1lOiAiICsgcyk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhdXRoUmVzdWx0LmdldFByaW5jaXBhbCgpKS5nZXRVc2VybmFtZSgpKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY21kID0gbmV3IFN0cmluZ1tde2dyYWRlci5nZXRQcm9ncmFtKCksIHRlc3RGaWxlLnRvU3RyaW5nKCksIHRhcmdldFBhdGguZ2V0UGFyZW50KCkudG9TdHJpbmcoKX07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0xvZ2luIEVycm9yJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlciBOYW1lOiAiICsgcyk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhdXRoUmVzdWx0LmdldFByaW5jaXBhbCgpKS5nZXRVc2VybmFtZSgpKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyKTsK</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlciBOYW1lOiAiICsgcyk7Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlciBOYW1lOiAiICsgcyk7Cg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbih1c2VyKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlciBOYW1lOiAiICsgcyk7Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvdi5odG1sX3JlcG9ydChkaXJlY3Rvcnk9J2Nvdmh0bWwnKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHByaW50KHByb2Nlc3Muc3Rkb3V0KQo=</text>
+        <text encoding="base64">ICAgIGNvdi5odG1sX3JlcG9ydChkaXJlY3Rvcnk9J2Nvdmh0bWwnKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBAUXVlcnkodmFsdWU9IlNFTEVDVCBjIEZST00gQ291cnNlIGFzIGMgSk9JTiBFbnJvbGxtZW50IGFzIGUgT04gYy5uYW1lPWUuaWQuY291cnNlIEFORCBlLmlkLnVzZXIgPSA6dXNlciBKT0lOIFF1YXJ0ZXIgYXMgcSBPTiBxLmlkLnllYXI9ZS5pZC55ZWFyIEFORCBxLmlkLnF1YXJ0ZXI9ZS5pZC5xdWFydGVyIEFORCBxLmN1cnJlbnQ9MSIpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KHByb2Nlc3Muc3Rkb3V0KQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
