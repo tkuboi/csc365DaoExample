@@ -1328,6 +1328,12 @@
         <mark key="^" line="50" column="23" />
         <mark key="." line="44" column="0" />
       </file>
+      <file name="$USER_HOME$/git/gradzilla/src/main/java/net/tkuboi/gradzilla/configuration/SecurityConfiguration.java" timestamp="1601144115626">
+        <mark key="[" line="43" column="6" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
+        <mark key="^" line="41" column="7" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/webapp/WEB-INF/unassignedTasks.jsp" timestamp="1509334285487">
         <mark key="[" line="1" column="30" />
         <mark key="]" line="1" column="40" />
@@ -2636,10 +2642,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>6</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>6</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
