@@ -2299,12 +2299,12 @@
         <mark key="^" line="80" column="75" />
         <mark key="." line="80" column="75" />
       </file>
-      <file name="$USER_HOME$/git/gradzilla/src/main/resources/application.properties" timestamp="1601154010453">
+      <file name="$USER_HOME$/git/gradzilla/src/main/resources/application.properties" timestamp="1601167234320">
         <mark key="'" line="14" column="0" />
         <mark key="[" line="53" column="0" />
-        <mark key="]" line="59" column="0" />
+        <mark key="]" line="53" column="0" />
         <mark key="^" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/src/main/java/net/tkuboi/gradzilla/submission/SubmissionResultDto.java" timestamp="1562955621051">
         <mark key="[" line="2" column="34" />
@@ -2698,11 +2698,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/git/gradzilla/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy9sb2dpbiddKTsK</text>
+      <register name="&quot;" type="4">
+        <text>#</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
