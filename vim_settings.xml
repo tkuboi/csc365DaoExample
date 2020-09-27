@@ -741,10 +741,11 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/git/gradzilla/client/src/app/login/login.component.ts" timestamp="1601161475086">
-        <mark key="[" line="62" column="20" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/login/login.component.ts" timestamp="1601164702399">
+        <mark key="[" line="65" column="12" />
+        <mark key="]" line="65" column="13" />
+        <mark key="." line="65" column="13" />
+        <mark key="^" line="65" column="13" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Leganalystofficerepresentation.java" timestamp="1510526812503">
         <mark key="[" line="9" column="108" />
@@ -1010,6 +1011,9 @@
         <mark key="]" line="15" column="87" />
         <mark key="^" line="14" column="64" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/app.component.html" timestamp="1601163120033">
+        <mark key="[" line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Workspace/weblogin/src/main/java/edu/calpoly/csc365/login/entity/Ownership.java" timestamp="1574312094461">
         <mark key="[" line="2" column="24" />
@@ -1573,6 +1577,12 @@
         <mark key="]" line="2" column="90" />
         <mark key="^" line="2" column="90" />
         <mark key="." line="2" column="90" />
+      </file>
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/app.component.ts" timestamp="1601163784282">
+        <mark key="[" line="15" column="35" />
+        <mark key="]" line="3" column="22" />
+        <mark key="^" line="3" column="22" />
+        <mark key="." line="3" column="22" />
       </file>
       <file name="$USER_HOME$/Workspace/gradzilla/client/src/environments/index.ts" timestamp="1564436484499">
         <mark key="[" line="0" column="0" />
@@ -2683,11 +2693,11 @@
       <jump line="14" column="0" filename="$USER_HOME$/git/gradzilla/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0xvZ2luIEVycm9yIScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
@@ -2696,31 +2706,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0xvZ2luIEVycm9yJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0xvZ2luIEVycm9yIScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoZXJyb3IpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHB3LnByaW50KCJcIn0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2RhdGEnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoUmVzdWx0LmdldFByaW5jaXBhbCgpKS5nZXRBdXRob3JpdGllcygpLnRvQXJyYXkoKVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yb3V0ZXIubmF2aWdhdGUoWycvbG9naW4nXSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgKG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoZXJyb3IpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHB3LnByaW50KCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0xvZ2luIEVycm9yIScpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB3LnByaW50KCJcIixcInJvbGVcIjpcIiIpOwo=</text>
+        <text encoding="base64">ICAgIHB3LnByaW50KCJcIn0iKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB3LnByaW50KHRva2VuKTsK</text>
+        <text encoding="base64">ICAgICAgICBhdXRoUmVzdWx0LmdldFByaW5jaXBhbCgpKS5nZXRBdXRob3JpdGllcygpLnRvQXJyYXkoKVswXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbihhdXRoUmVzdWx0LmdldFByaW5jaXBhbCgpKS5nZXRVc2VybmFtZSgpKTsK</text>
+        <text encoding="base64">ICAgICAgKG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFN5c3RlbS5vdXQucHJpbnRsbigiVXNlciBOYW1lOiAiICsgcyk7Cg==</text>
+        <text encoding="base64">ICAgIHB3LnByaW50KCgK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
