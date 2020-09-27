@@ -117,11 +117,11 @@
         <mark key="^" line="104" column="35" />
         <mark key="." line="104" column="35" />
       </file>
-      <file name="$USER_HOME$/git/gradzilla/client/src/app/helpers/auth.guard.ts" timestamp="1601166534047">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/helpers/auth.guard.ts" timestamp="1601171717140">
+        <mark key="[" line="19" column="31" />
+        <mark key="]" line="19" column="31" />
         <mark key="^" line="32" column="3" />
-        <mark key="." line="32" column="0" />
+        <mark key="." line="19" column="31" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
@@ -2699,10 +2699,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>#</text>
+        <text>/</text>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
