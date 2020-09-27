@@ -117,6 +117,12 @@
         <mark key="^" line="104" column="35" />
         <mark key="." line="104" column="35" />
       </file>
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/helpers/auth.guard.ts" timestamp="1601166534047">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="^" line="32" column="3" />
+        <mark key="." line="32" column="0" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/services/SessionYearService.java" timestamp="1514946719870">
         <mark key="[" line="68" column="29" />
         <mark key="]" line="74" column="55" />
@@ -741,11 +747,10 @@
         <mark key="." line="15" column="32" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/git/gradzilla/client/src/app/login/login.component.ts" timestamp="1601164702399">
-        <mark key="[" line="65" column="12" />
-        <mark key="]" line="65" column="13" />
-        <mark key="." line="65" column="13" />
-        <mark key="^" line="65" column="13" />
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/login/login.component.ts" timestamp="1601166580977">
+        <mark key="[" line="64" column="12" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/entities/Leganalystofficerepresentation.java" timestamp="1510526812503">
         <mark key="[" line="9" column="108" />
@@ -2693,8 +2698,8 @@
       <jump line="14" column="0" filename="$USER_HOME$/git/gradzilla/src/main/resources/application.properties" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy90aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy9sb2dpbiddKTsK</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -2706,31 +2711,31 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0xvZ2luIEVycm9yJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy90aGlzLnJvdXRlci5uYXZpZ2F0ZShbJy9sb2dpbiddKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2RhdGEnKTsK</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yb3V0ZXIubmF2aWdhdGUoWycvbG9naW4nXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoZXJyb3IpOwo=</text>
+        <text encoding="base64">ICAgIGlmIChzdGF0ZS51cmwgPT0gJy9sb2dpbicpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0xvZ2luIEVycm9yIScpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoZXJyb3IpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHB3LnByaW50KCJcIn0iKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoJ2RhdGEnKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhdXRoUmVzdWx0LmdldFByaW5jaXBhbCgpKS5nZXRBdXRob3JpdGllcygpLnRvQXJyYXkoKVswXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5yb3V0ZXIubmF2aWdhdGUoWycvbG9naW4nXSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgKG9yZy5zcHJpbmdmcmFtZXdvcmsuc2VjdXJpdHkuY29yZS51c2VyZGV0YWlscy5Vc2VyKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYWxlcnQoZXJyb3IpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB3LnByaW50KCgK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0xvZ2luIEVycm9yIScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
