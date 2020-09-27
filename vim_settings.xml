@@ -117,7 +117,7 @@
         <mark key="^" line="104" column="35" />
         <mark key="." line="104" column="35" />
       </file>
-      <file name="$USER_HOME$/git/gradzilla/client/src/app/helpers/auth.guard.ts" timestamp="1601171717140">
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/helpers/auth.guard.ts" timestamp="1601172944745">
         <mark key="[" line="19" column="31" />
         <mark key="]" line="19" column="31" />
         <mark key="^" line="32" column="3" />
@@ -158,6 +158,12 @@
         <mark key="]" line="11" column="23" />
         <mark key="^" line="11" column="23" />
         <mark key="." line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/index.html" timestamp="1601173902929">
+        <mark key="[" line="5" column="16" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="20" />
+        <mark key="." line="5" column="16" />
       </file>
       <file name="$USER_HOME$/Workspace/myservlet-test/src/main/webapp/login.jsp" timestamp="1542247561255">
         <mark key="[" line="13" column="21" />
@@ -2197,6 +2203,12 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/git/gradzilla/client/src/app/app.module.ts" timestamp="1601173389302">
+        <mark key="[" line="88" column="5" />
+        <mark key="]" line="88" column="5" />
+        <mark key="^" line="88" column="5" />
+        <mark key="." line="88" column="5" />
+      </file>
       <file name="$USER_HOME$/git/dd-TranscriptionTool-3.0/src/main/java/edu/calpoly/slo/digitaldemocracy/dto/VFTCallbackResult.java" timestamp="1509942539687">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="12" column="0" />
@@ -2699,10 +2711,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>stack_array</text>
